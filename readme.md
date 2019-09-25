@@ -1,4 +1,4 @@
-# Greate SQL analytics app
+# Experimental Hello World app to Practice git and git-hub
 
 ## How to install the app
 
@@ -6,7 +6,7 @@ To use this app, you dont need to install it, just download and run, however you
 
 ## Why you should use this app
 
-it prints "Hello, WOrld ", what else do you need?
+it prints "Hello, World ", what else do you need?
 '''
 print("Hello, World")
 '''

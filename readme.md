@@ -15,5 +15,5 @@ print("Hello, World")
 1. list item
 2. list item
 
-**this is bold**
-__this is italics__
+**this is bold** 
+_ _this is italics_ _
